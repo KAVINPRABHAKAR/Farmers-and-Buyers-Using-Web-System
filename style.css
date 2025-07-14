@@ -1,0 +1,12 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin-top: 50px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+}
