@@ -72,10 +72,4 @@ register.php → New user registration
 login.php → Existing user login
 
 dashboard.php → Basic dashboard placeholder
-### 🖼 Screenshots
 
-#### 🔐 Login Page  
-![Login Page](screenshots/login.png)
-
-#### 📝 Registration Page  
-![Registration Page](screenshots/register.png)
