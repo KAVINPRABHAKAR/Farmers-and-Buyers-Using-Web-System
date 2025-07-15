@@ -1,4 +1,4 @@
-# 🌾 Farmers and Buyers Web System
+# 🌾 Farmers and Buyers Using Web System
 
 A full-stack web platform that connects farmers and buyers to enable direct agricultural transactions. This system helps eliminate middlemen, improves transparency, and supports rural commerce with a simple user-friendly interface.
 
